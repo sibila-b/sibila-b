@@ -1,6 +1,6 @@
 # Hi, I'm Sibila
 
-Technical Delivery & Transformation Leader · MSSE Candidate · Chicago, IL · [sibilabijedic.com](https://sibilabijedic.com)
+Technical Delivery & Transformation Leader · Chicago, IL · [sibilabijedic.com](https://sibilabijedic.com)
 
 I lead complex delivery and transformation initiatives at the intersection of engineering, operations, and business strategy — building high-performing teams that deliver with clarity, ownership, and measurable outcomes. My MSSE work extends that foundation deeper into the technical layer through AI systems, platform engineering, operational excellence, and the engineering practices that make modern software delivery scalable, resilient, and sustainable.
 
